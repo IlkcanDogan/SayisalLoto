@@ -1,0 +1,9 @@
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\MKA\Desktop\Programlar\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
